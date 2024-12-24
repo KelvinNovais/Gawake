@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.kelvinnovais.Gawake.desktop.in
+data/io.github.kelvinnovais.Gawake.metainfo.xml.in
+data/io.github.kelvinnovais.Gawake.gschema.xml
+src/main.c
+src/gawake-window.c
+src/gawake-window.ui

@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=io.github.kelvinnovais.Gawake
+Exec=@bindir@/gawake --gapplication-service

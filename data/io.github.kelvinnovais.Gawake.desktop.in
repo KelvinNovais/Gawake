@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gawake
+Exec=gawake
+Icon=io.github.kelvinnovais.Gawake
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
